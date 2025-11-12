@@ -13,6 +13,7 @@
 
 <em>Built with Python, PyTorch, and Jupyter Notebook</em>
 
+</div>
 ---
 
 ## Table of Contents

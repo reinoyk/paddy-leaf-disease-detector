@@ -1,3 +1,6 @@
+<div id="top">
+
+<div align="center">
 # PADDY-LEAF-DISEASE-DETECTOR
 
 *Detects Crop Diseases, Protects Your Harvest Instantly*
